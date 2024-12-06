@@ -1,0 +1,7 @@
+C:\Users\DEll\Source\Repos\Day 5 Part 02\Day 5 Part 02\bin\Debug\Day 5 Part 02.exe.config
+C:\Users\DEll\Source\Repos\Day 5 Part 02\Day 5 Part 02\bin\Debug\Day 5 Part 02.exe
+C:\Users\DEll\Source\Repos\Day 5 Part 02\Day 5 Part 02\bin\Debug\Day 5 Part 02.pdb
+C:\Users\DEll\Source\Repos\Day 5 Part 02\Day 5 Part 02\obj\Debug\Day 5 Part 02.csproj.AssemblyReference.cache
+C:\Users\DEll\Source\Repos\Day 5 Part 02\Day 5 Part 02\obj\Debug\Day 5 Part 02.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Source\Repos\Day 5 Part 02\Day 5 Part 02\obj\Debug\Day 5 Part 02.exe
+C:\Users\DEll\Source\Repos\Day 5 Part 02\Day 5 Part 02\obj\Debug\Day 5 Part 02.pdb
